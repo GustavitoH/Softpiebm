@@ -1,0 +1,17 @@
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Entidades\bin\Debug\Entidades.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Entidades\obj\Debug\Entidades.pdb

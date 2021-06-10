@@ -1,0 +1,30 @@
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll.config
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll.config
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll.config
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Datos.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\bin\Debug\Entidades.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Datos\obj\Debug\Datos.pdb

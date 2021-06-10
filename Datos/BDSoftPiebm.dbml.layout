@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BDSoftPiebm">
+  <DataContextMoniker Name="/BDSoftPiebmDataContext" />
+  <nestedChildShapes>
+    <classShape Id="62331c49-98b3-4e08-b946-6bdacfa176d8" absoluteBounds="0.875, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BDSoftPiebmDataContext/MENSAJE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f31964ba-426c-44ef-9350-bbfda9db91ec" absoluteBounds="0.89, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="71d3c578-8105-43e0-9539-704805fec561" absoluteBounds="3.375, 0.5, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/BDSoftPiebmDataContext/USUARIO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="26f1a556-427e-46a2-a4e3-cb4d0c396d97" absoluteBounds="3.39, 0.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7d20e8ce-fb40-4182-ac8c-b35421787b4e" absoluteBounds="0.875, 2.625, 2, 2.347801106770834">
+      <DataClassMoniker Name="/BDSoftPiebmDataContext/PRODUCTO" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bb45b135-4e48-455a-b16d-646bea9a0463" absoluteBounds="0.89, 3.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

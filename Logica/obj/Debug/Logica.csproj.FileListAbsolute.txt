@@ -1,0 +1,36 @@
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll.config
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.dll
+C:\Users\GUSTAVO H\Desktop\GH\PROYECTOS\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll.config
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.pdb
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.dll
+C:\Users\GUSTAVO H\Desktop\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Logica.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Datos.dll.config
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\bin\Debug\Entidades.pdb
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.dll
+C:\Users\gus-t\OneDrive\Escritorio\GH\AppWinSistemaInventarioPIEBM\Logica\obj\Debug\Logica.pdb

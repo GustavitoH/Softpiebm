@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BDSoftPiebm" Class="BDSoftPiebmDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=GUSTAVO-H;Initial Catalog=BDSoftPiebm;Integrated Security=True" SettingsObjectName="Datos.Properties.Settings" SettingsPropertyName="BDSoftPiebmConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.MENSAJE" Member="MENSAJE">
+    <Type Name="MENSAJE">
+      <Column Name="ID_Mensaje" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Remitente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Mensaje" Member="Mensaje1" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.USUARIO" Member="USUARIO">
+    <Type Name="USUARIO">
+      <Column Name="ID_Usuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Usuario" Member="Usuario1" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ocupación" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PRODUCTO" Member="PRODUCTO">
+    <Type Name="PRODUCTO">
+      <Column Name="ID_Producto" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Producto" Member="Producto1" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Ubicación" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Descripción" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Precio_Aproximado" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.cp_ActualizarEstadoMensaje" Method="cp_ActualizarEstadoMensaje">
+    <Parameter Name="IdMensaje" Parameter="idMensaje" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_ListarVistaUsuario" Method="cp_ListarVistaUsuario">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarVistaUsuarioResult">
+      <Column Name="ID_Usuario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Usuario" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ocupación" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cp_ActualizarProducto" Method="cp_ActualizarProducto">
+    <Parameter Name="IdProducto" Parameter="idProducto" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Producto" Parameter="producto" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Ubicacion" Parameter="ubicacion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Cantidad" Parameter="cantidad" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Descripcion" Parameter="descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Fecha" Parameter="fecha" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="PrecioAprox" Parameter="precioAprox" Type="System.Decimal" DbType="Decimal(5,2)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_EliminarProducto" Method="cp_EliminarProducto">
+    <Parameter Name="IdProducto" Parameter="idProducto" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_EliminarUsuario" Method="cp_EliminarUsuario">
+    <Parameter Name="IdUsuario" Parameter="idUsuario" Type="System.Int32" DbType="Int" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_InsertarMensaje" Method="cp_InsertarMensaje">
+    <Parameter Name="Fecha" Parameter="fecha" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="Remitente" Parameter="remitente" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Mensaje" Parameter="mensaje" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(20)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_InsertarProducto" Method="cp_InsertarProducto">
+    <Parameter Name="Producto" Parameter="producto" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Estado" Parameter="estado" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Ubicacion" Parameter="ubicacion" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Cantidad" Parameter="cantidad" Type="System.Int32" DbType="Int" />
+    <Parameter Name="Descripcion" Parameter="descripcion" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Fecha" Parameter="fecha" Type="System.DateTime" DbType="DateTime" />
+    <Parameter Name="PrecioAprx" Parameter="precioAprx" Type="System.Decimal" DbType="Decimal(5,2)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_InsertarUsuario" Method="cp_InsertarUsuario">
+    <Parameter Name="Usuario" Parameter="usuario" Type="System.String" DbType="VarChar(100)" />
+    <Parameter Name="Ocupacion" Parameter="ocupacion" Type="System.String" DbType="VarChar(20)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(50)" />
+    <Parameter Name="Contrase" Parameter="contrase" Type="System.String" DbType="VarChar(50)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.cp_ListarMensaje" Method="cp_ListarMensaje">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarMensajeResult">
+      <Column Name="ID_Mensaje" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Remitente" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Mensaje" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cp_ListarProducto" Method="cp_ListarProducto">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarProductoResult">
+      <Column Name="ID_Producto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Producto" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Ubicación" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Descripción" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Precio_Aproximado" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cp_ListarReporteMensaje" Method="cp_ListarReporteMensaje">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarReporteMensajeResult">
+      <Column Name="ID_Producto" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Producto" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Estado" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Ubicación" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Descripción" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Precio_Aproximado" Type="System.Decimal" DbType="Decimal(5,2)" CanBeNull="true" />
+      <Column Name="Usuario" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ocupación" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cp_ListarUsuario" Method="cp_ListarUsuario">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarUsuarioResult">
+      <Column Name="ID_Usuario" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Usuario" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ocupación" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Contraseña" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.cp_ListarVistaMensaje" Method="cp_ListarVistaMensaje">
+    <Parameter Name="Valor" Parameter="valor" Type="System.String" DbType="VarChar(40)" />
+    <ElementType Name="cp_ListarVistaMensajeResult">
+      <Column Name="ID_Mensaje" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Fecha" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Mensaje" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+</Database>
